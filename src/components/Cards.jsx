@@ -6,8 +6,7 @@ import 'swiper/css/pagination';
 import 'swiper/css/navigation';
 // import required modules
 import { Autoplay, Pagination, Navigation } from 'swiper/modules';
-
-import student from "../assets/student.png"
+import student from "../../public/images/student.png"
 import { Link } from 'react-router-dom';
 import { useEffect } from 'react';
 

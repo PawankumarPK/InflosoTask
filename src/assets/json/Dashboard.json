@@ -1,0 +1,407 @@
+[
+    {
+        "Tab": "Social Account",
+        "content": [
+            {
+                "id": "1",
+                "companyName": "Shaya.co",
+                "location": "Noida",
+                "tag": "@Shaya",
+                "title": "Shaya Online Fashion",
+                "categories": [
+                    "Lifestyle Fashion",
+                    "E-Commerce"
+                ],
+                "activeCampaign": "0",
+                "description": "+15 Plus worked with 18 influencer",
+                "img": "/images/boat.png"
+            },
+            {
+                "id": "2",
+                "companyName": "Shaya.co",
+                "location": "New Delhi",
+                "tag": "@Sonic",
+                "title": "Sonic Online Fashion",
+                "categories": [
+                    "Lifestyle Fashion",
+                    "E-Commerce",
+                    "Sport"
+                ],
+                "activeCampaign": "2",
+                "description": "+15 Plus worked with 18 influencer",
+                "img": "/images/sonic.png"
+            },
+            {
+                "id": "3",
+                "companyName": "Shaya.co",
+                "location": "Kolkata",
+                "tag": "@boult",
+                "title": "Boult Online Fashion",
+                "categories": [
+                    "Lifestyle Fashion",
+                    "E-Commerce",
+                    "Wellness"
+                ],
+                "activeCampaign": "1",
+                "description": "+15 Plus worked with 18 influencer",
+                "img": "/images/boult.png"
+            },
+            {
+                "id": "4",
+                "companyName": "Shaya.co",
+                "location": "Noida",
+                "tag": "@Shaya",
+                "title": "Shaya Online Fashion",
+                "categories": [
+                    "Lifestyle Fashion",
+                    "E-Commerce"
+                ],
+                "activeCampaign": "3",
+                "description": "+15 Plus worked with 18 influencer",
+                "img": "/images/Platinum-CSIR-NET.png"
+            },
+            {
+                "id": "5",
+                "companyName": "Shaya.co",
+                "location": "Noida",
+                "tag": "@Shaya",
+                "title": "Shaya Online Fashion",
+                "categories": [
+                    "Lifestyle Fashion",
+                    "E-Commerce"
+                ],
+                "activeCampaign": "2",
+                "description": "+15 Plus worked with 18 influencer",
+                "img": "/images/Platinum-CSIR-NET.png"
+            },
+            {
+                "id": "6",
+                "companyName": "Shaya.co",
+                "location": "Noida",
+                "tag": "@Shaya",
+                "title": "Shaya Online Fashion",
+                "categories": [
+                    "Lifestyle Fashion",
+                    "E-Commerce"
+                ],
+                "activeCampaign": "3",
+                "description": "+15 Plus worked with 18 influencer",
+                "img": "/images/Platinum-CSIR-NET.png"
+            },
+            {
+                "id": "7",
+                "companyName": "Shaya.co",
+                "location": "Noida",
+                "tag": "@Shaya",
+                "title": "Shaya Online Fashion",
+                "categories": [
+                    "Lifestyle Fashion",
+                    "E-Commerce"
+                ],
+                "activeCampaign": "2",
+                "description": "+15 Plus worked with 18 influencer",
+                "img": "/images/Platinum-CSIR-NET.png"
+            }
+        ]
+    },
+    {
+        "Tab": "Collaboration",
+        "content": [
+            {
+                "id": "1",
+                "companyName": "Shaya.co",
+                "location": "Noida",
+                "tag": "@Shaya",
+                "title": "Shaya Online Fashion",
+                "categories": [
+                    "Lifestyle Fashion",
+                    "E-Commerce"
+                ],
+                "activeCampaign": "1",
+                "description": "+15 Plus worked with 18 influencer",
+                "img": "/images/Platinum-CSIR-NET.png"
+            },
+            {
+                "id": "2",
+                "companyName": "Shaya.co",
+                "location": "Noida",
+                "tag": "@Shaya",
+                "title": "Shaya Online Fashion",
+                "categories": [
+                    "Lifestyle Fashion",
+                    "E-Commerce"
+                ],
+                "activeCampaign": "3",
+                "description": "+15 Plus worked with 18 influencer",
+                "img": "/images/Platinum-CSIR-NET.png"
+            },
+            {
+                "id": "3",
+                "companyName": "Shaya.co",
+                "location": "Noida",
+                "tag": "@Shaya",
+                "title": "Shaya Online Fashion",
+                "categories": [
+                    "Lifestyle Fashion",
+                    "E-Commerce"
+                ],
+                "activeCampaign": "2",
+                "description": "+15 Plus worked with 18 influencer",
+                "img": "/images/Platinum-CSIR-NET.png"
+            }
+        ]
+    },
+    {
+        "Tab": "Preference",
+        "content": [
+            {
+                "id": "1",
+                "companyName": "Shaya.co",
+                "location": "Noida",
+                "tag": "@Shaya",
+                "title": "Shaya Online Fashion",
+                "categories": [
+                    "Lifestyle Fashion",
+                    "E-Commerce"
+                ],
+                "activeCampaign": "0",
+                "description": "+15 Plus worked with 18 influencer",
+                "img": "/images/Platinum-CSIR-NET.png"
+            },
+            {
+                "id": "2",
+                "companyName": "Shaya.co",
+                "location": "Noida",
+                "tag": "@Shaya",
+                "title": "Shaya Online Fashion",
+                "categories": [
+                    "Lifestyle Fashion",
+                    "E-Commerce"
+                ],
+                "activeCampaign": "0",
+                "description": "+15 Plus worked with 18 influencer",
+                "img": "/images/Platinum-CSIR-NET.png"
+            },
+            {
+                "id": "3",
+                "companyName": "Shaya.co",
+                "location": "Noida",
+                "tag": "@Shaya",
+                "title": "Shaya Online Fashion",
+                "categories": [
+                    "Lifestyle Fashion",
+                    "E-Commerce"
+                ],
+                "activeCampaign": "0",
+                "description": "+15 Plus worked with 18 influencer",
+                "img": "/images/Platinum-CSIR-NET.png"
+            }
+        ]
+    },
+    {
+        "Tab": "Analytics",
+        "content": [
+            {
+                "id": "1",
+                "companyName": "Shaya.co",
+                "location": "Noida",
+                "tag": "@Shaya",
+                "title": "Shaya Online Fashion",
+                "categories": [
+                    "Lifestyle Fashion",
+                    "E-Commerce"
+                ],
+                "activeCampaign": "0",
+                "description": "+15 Plus worked with 18 influencer",
+                "img": "/images/Platinum-CSIR-NET.png"
+            },
+            {
+                "id": "2",
+                "companyName": "Shaya.co",
+                "location": "Noida",
+                "tag": "@Shaya",
+                "title": "Shaya Online Fashion",
+                "categories": [
+                    "Lifestyle Fashion",
+                    "E-Commerce"
+                ],
+                "activeCampaign": "0",
+                "description": "+15 Plus worked with 18 influencer",
+                "img": "/images/Platinum-CSIR-NET.png"
+            },
+            {
+                "id": "3",
+                "companyName": "Shaya.co",
+                "location": "Noida",
+                "tag": "@Shaya",
+                "title": "Shaya Online Fashion",
+                "categories": [
+                    "Lifestyle Fashion",
+                    "E-Commerce"
+                ],
+                "activeCampaign": "0",
+                "description": "+15 Plus worked with 18 influencer",
+                "img": "/images/Platinum-CSIR-NET.png"
+            },
+            {
+                "id": "4",
+                "companyName": "Shaya.co",
+                "location": "Noida",
+                "tag": "@Shaya",
+                "title": "Shaya Online Fashion",
+                "categories": [
+                    "Lifestyle Fashion",
+                    "E-Commerce"
+                ],
+                "activeCampaign": "0",
+                "description": "+15 Plus worked with 18 influencer",
+                "img": "/images/Platinum-CSIR-NET.png"
+            },
+            {
+                "id": "5",
+                "companyName": "Shaya.co",
+                "location": "Noida",
+                "tag": "@Shaya",
+                "title": "Shaya Online Fashion",
+                "categories": [
+                    "Lifestyle Fashion",
+                    "E-Commerce"
+                ],
+                "activeCampaign": "0",
+                "description": "+15 Plus worked with 18 influencer",
+                "img": "/images/Platinum-CSIR-NET.png"
+            },
+            {
+                "id": "6",
+                "companyName": "Shaya.co",
+                "location": "Noida",
+                "tag": "@Shaya",
+                "title": "Shaya Online Fashion",
+                "categories": [
+                    "Lifestyle Fashion",
+                    "E-Commerce"
+                ],
+                "activeCampaign": "0",
+                "description": "+15 Plus worked with 18 influencer",
+                "img": "/images/Platinum-CSIR-NET.png"
+            },
+            {
+                "id": "7",
+                "companyName": "Shaya.co",
+                "location": "Noida",
+                "tag": "@Shaya",
+                "title": "Shaya Online Fashion",
+                "categories": [
+                    "Lifestyle Fashion",
+                    "E-Commerce"
+                ],
+                "activeCampaign": "0",
+                "description": "+15 Plus worked with 18 influencer",
+                "img": "/images/Platinum-CSIR-NET.png"
+            }
+        ]
+    },
+    {
+        "Tab": "Similar Profiles",
+        "content": [
+            {
+                "id": "1",
+                "companyName": "Shaya.co",
+                "location": "Noida",
+                "tag": "@Shaya",
+                "title": "Shaya Online Fashion",
+                "categories": [
+                    "Lifestyle Fashion",
+                    "E-Commerce"
+                ],
+                "activeCampaign": "0",
+                "description": "+15 Plus worked with 18 influencer",
+                "img": "/images/Platinum-CSIR-NET.png"
+            },
+            {
+                "id": "2",
+                "companyName": "Shaya.co",
+                "location": "Noida",
+                "tag": "@Shaya",
+                "title": "Shaya Online Fashion",
+                "categories": [
+                    "Lifestyle Fashion",
+                    "E-Commerce"
+                ],
+                "activeCampaign": "0",
+                "description": "+15 Plus worked with 18 influencer",
+                "img": "/images/Platinum-CSIR-NET.png"
+            },
+            {
+                "id": "3",
+                "companyName": "Shaya.co",
+                "location": "Noida",
+                "tag": "@Shaya",
+                "title": "Shaya Online Fashion",
+                "categories": [
+                    "Lifestyle Fashion",
+                    "E-Commerce"
+                ],
+                "activeCampaign": "0",
+                "description": "+15 Plus worked with 18 influencer",
+                "img": "/images/Platinum-CSIR-NET.png"
+            },
+            {
+                "id": "4",
+                "companyName": "Shaya.co",
+                "location": "Noida",
+                "tag": "@Shaya",
+                "title": "Shaya Online Fashion",
+                "categories": [
+                    "Lifestyle Fashion",
+                    "E-Commerce"
+                ],
+                "activeCampaign": "0",
+                "description": "+15 Plus worked with 18 influencer",
+                "img": "/images/Platinum-CSIR-NET.png"
+            },
+            {
+                "id": "5",
+                "companyName": "Shaya.co",
+                "location": "Noida",
+                "tag": "@Shaya",
+                "title": "Shaya Online Fashion",
+                "categories": [
+                    "Lifestyle Fashion",
+                    "E-Commerce"
+                ],
+                "activeCampaign": "0",
+                "description": "+15 Plus worked with 18 influencer",
+                "img": "/images/Platinum-CSIR-NET.png"
+            },
+            {
+                "id": "6",
+                "companyName": "Shaya.co",
+                "location": "Noida",
+                "tag": "@Shaya",
+                "title": "Shaya Online Fashion",
+                "categories": [
+                    "Lifestyle Fashion",
+                    "E-Commerce"
+                ],
+                "activeCampaign": "0",
+                "description": "+15 Plus worked with 18 influencer",
+                "img": "/images/Platinum-CSIR-NET.png"
+            },
+            {
+                "id": "7",
+                "companyName": "Shaya.co",
+                "location": "Noida",
+                "tag": "@Shaya",
+                "title": "Shaya Online Fashion",
+                "categories": [
+                    "Lifestyle Fashion",
+                    "E-Commerce"
+                ],
+                "activeCampaign": "0",
+                "description": "+15 Plus worked with 18 influencer",
+                "img": "/images/Platinum-CSIR-NET.png"
+            }
+        ]
+    }
+]
